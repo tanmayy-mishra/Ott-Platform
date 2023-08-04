@@ -7,12 +7,12 @@ Its an interactive landing page made using HTML,CSS, JS.
 Features
 
 
-Extensive Content Library: Access a vast collection of movies, TV series, documentaries, and more.
-User-friendly Interface: Enjoy a seamless browsing experience with an intuitive and easy-to-use interface
-Personalized Recommendations: Discover new content tailored to your preferences and viewing history.
-Customized Profiles: Create individual profiles for family members, each with their own watchlist and preferences.
-Offline Viewing: Download your favorite movies and shows to watch them offline at your convenience.
-Parental Controls: Ensure a safe viewing experience for children with PIN-protected parental controls.
+1. Extensive Content Library: Access a vast collection of movies, TV series, documentaries, and more.
+2. User-friendly Interface: Enjoy a seamless browsing experience with an intuitive and easy-to-use interface
+3. Personalized Recommendations: Discover new content tailored to your preferences and viewing history.
+4. Customized Profiles: Create individual profiles for family members, each with their own watchlist and preferences.
+5. Offline Viewing: Download your favorite movies and shows to watch them offline at your convenience.
+6. Parental Controls: Ensure a safe viewing experience for children with PIN-protected parental controls.
 
 
 Screeshot📸
