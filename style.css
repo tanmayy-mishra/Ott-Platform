@@ -58,7 +58,14 @@
     padding: 0.25rem 0.5rem;
     border-radius: 4px;
   }
-  
+  button {
+    padding: 10px 30px;
+    font-size: 15px;
+    background-color: #f10707;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
   .navbar__nav__items {
     display: flex;
     gap: 10px;

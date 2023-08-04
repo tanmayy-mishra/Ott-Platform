@@ -1,3 +1,7 @@
+document.getElementById("Binge__Free").addEventListener("click", function() {
+  window.location.href = "Bingefree.html";
+});
+
 let accordian = document.getElementsByClassName("FAQ__title");
 
 for (let i = 0; i < accordian.length; i++) {
