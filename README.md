@@ -5,6 +5,8 @@ It provides an immersive and engaging entertainment experience for Indian audien
 Its an interactive landing page made using HTML,CSS, JS.
 
 Features
+
+
 Extensive Content Library: Access a vast collection of movies, TV series, documentaries, and more.
 User-friendly Interface: Enjoy a seamless browsing experience with an intuitive and easy-to-use interface
 Personalized Recommendations: Discover new content tailored to your preferences and viewing history.
